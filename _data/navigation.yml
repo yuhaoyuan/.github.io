@@ -1,0 +1,13 @@
+main:
+  - title: "Home"
+    url: /
+  - title: "Total Blog"
+    url: /total
+  - title: "category1"
+    url: /category1
+  - title: "category2"
+    url: /category2
+  - title: "category3"
+    url: /category3
+  - title: "category4"
+    url: /category4
