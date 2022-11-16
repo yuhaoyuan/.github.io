@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: 2022年11月
 title: "Hello, world"
 date:   2022-11-15 17:57:09 +0800
 categories: jekyll update
